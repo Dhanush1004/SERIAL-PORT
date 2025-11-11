@@ -1,4 +1,3 @@
-
 # Serial Transfer of Single Byte / Character using 8051 (Keil)
 
 ## AIM
@@ -53,14 +52,12 @@ void main(void)
 
     while(1);
 }
-
-
 ```
 
 ### OUTPUT:
-<img width="1920" height="1080" alt="Screenshot 2025-10-14 200536" src="https://github.com/user-attachments/assets/f9bd2f08-20e7-4938-a815-30da12543ee9" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/2c92b0d0-035a-4931-bac8-c16bc96a2107" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-14 200009" src="https://github.com/user-attachments/assets/c1687faa-ffcf-46a0-9523-79a3c6b620a2" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/446ce2aa-74f5-42c7-b1c4-07e039648d70" />
 
 ### RESULT:
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
